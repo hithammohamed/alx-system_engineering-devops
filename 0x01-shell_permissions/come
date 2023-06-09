@@ -1,3 +1,4 @@
+chmod 755 hello_1
 git add .
-git commit -m "Modify directory permissions 0x01-shell_permissions"
+git commit -m "Corrected some errors in permissions"
 git push

@@ -1,3 +1,3 @@
 git add .
-git commit -m "Code to move the workspace"
+git commit -m "A code has been generated that displays all files"
 git push

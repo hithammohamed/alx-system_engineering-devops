@@ -1,3 +1,3 @@
 git add .
-git commit -m "Modify file permissions Hello like olleh"
+git commit -m "Modify directory permissions 0x01-shell_permissions"
 git push

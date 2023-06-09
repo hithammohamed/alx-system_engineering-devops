@@ -1,4 +1,4 @@
 
 git add .
-git commit -m "The code has been created and permissions have been given to show sub-files "
+git commit -m "The directory has been created and permissions granted successfullyi "
 git push

@@ -1,4 +1,4 @@
 
 git add .
-git commit -m "Correction of errors in the permissions"
+git commit -m "The code has been created and permissions have been given "
 git push

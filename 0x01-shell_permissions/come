@@ -1,4 +1,4 @@
 chmod 755 hello_1
 git add .
-git commit -m "Create a new folder and give it its permissions"
+git commit -m "Correction of errors in the permissions"
 git push

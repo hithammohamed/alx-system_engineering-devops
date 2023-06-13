@@ -1,3 +1,3 @@
 git add .
-git commit -m "The file has been created '7-file'and print the text"
+git commit -m "Correction of '8. Save current state of directory'"
 git push

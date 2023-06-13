@@ -1,3 +1,3 @@
 git add .
-git commit -m "Correction of '8. Save current state of directory'"
+git commit -m "The text that displays the last line has been written in '9-duplicate_last_line'"
 git push

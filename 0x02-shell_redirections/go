@@ -1,3 +1,3 @@
 git add .
-git commit -m "The file has been created and required"
+git commit -m "The file has been created '6-third_line'"
 git push

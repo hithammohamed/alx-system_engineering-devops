@@ -1,0 +1,3 @@
+git add .
+git commit -m "A smiley face limping file has been created"
+git push

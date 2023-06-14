@@ -1,3 +1,3 @@
 git add .
-git commit -m "The command that prints the required commands has been written '102-acrostic' "
+git commit -m "The script that prints the required commands has been written '103-the_biggest_fan'"
 git push

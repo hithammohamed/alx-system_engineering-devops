@@ -1,3 +1,3 @@
 git add .
-git commit -m "The script has been written"
+git commit -m "The script has been written'1-hello_you'"
 git push

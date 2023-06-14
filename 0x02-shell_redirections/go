@@ -1,3 +1,3 @@
 git add .
-git commit -m "The command that performs the required search has been written '100-empty_casks'"
+git commit -m "The command that prints the required commands has been written '101-gifs' "
 git push

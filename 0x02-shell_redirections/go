@@ -1,3 +1,3 @@
 git add .
-git commit -m "A file displaying the required orders has been created"
+git commit -m "A file displaying the required commands has been created successfully'18-letteronly'"
 git push
